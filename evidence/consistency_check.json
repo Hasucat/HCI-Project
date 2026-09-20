@@ -1,0 +1,9 @@
+{
+  "sumo_runs": 520,
+  "cells": 52,
+  "seeds_per_cell": 10,
+  "max_numeric_difference": 2.842170943040401e-14,
+  "collisions_recorded": 0.0,
+  "emergency_stops_recorded": 0.0,
+  "scope": "CSV arithmetic verified; raw trajectories and per-run metadata were not supplied."
+}
